@@ -1,8 +1,10 @@
-## glide-4-ftp-model
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# Glide4 Ftp Custom model
 
 This Android project includes Glide 4 Custom Model to load the image files from FTP server.
 
-## License
+# License
 
 Licensed under the MIT License
 Igor Lapiga, Pro100Soft
