@@ -1,6 +1,6 @@
 ## glide-4-ftp-model
 
-This Android project include Glide 4 Custom Model to load image files from FTP server.
+This Android project includes Glide 4 Custom Model to load the image files from FTP server.
 
 ## License
 
